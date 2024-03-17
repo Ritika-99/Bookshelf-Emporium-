@@ -23,7 +23,7 @@
 
 
 # 📥 Setup Instructions:
-    1. Clone the repository from GitHub: git clone https://github.com/yourusername/bookshelf-emporium.git
+    1. Clone the repository from GitHub: git clone https://github.com/Ritika-99/Bookshelf-Emporium-.git
 
     2. Navigate to the project directory: cd bookshelf-emporium
 
